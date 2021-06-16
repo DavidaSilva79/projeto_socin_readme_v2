@@ -1,8 +1,6 @@
-<h1 align="center">
+
  <p align="center">
 <img src="https://static.wixstatic.com/media/b62a2d_974c250fd60542b1b2195291096a6c91~mv2.png" width="750px" height="400px"/></p>
-</h1>
-
 
 ## 💻 Sobre o projeto
 
