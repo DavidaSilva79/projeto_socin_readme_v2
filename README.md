@@ -17,7 +17,7 @@ Além dos módulos naturais existentes em uma solução de frente de caixa, o e-
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-<p align="center"> 
+<p align="left"> 
   <a href="https://www.java.com">
     <img src="https://img.shields.io/badge/Java%201.8-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java">
   </a>
@@ -26,9 +26,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
   </a> 
  </p>
 
-
-
-## 🚀 Como executar o E-conect e seus Pré-requisitos
+## 🚀 Como executar o e-conect
 
 ### Pré-requisitos
 
