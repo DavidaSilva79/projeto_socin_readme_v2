@@ -47,6 +47,7 @@ Além disto é bom ter um editor para trabalhar com o código como Eclipse
 - os pacotes .jar são gerados no diretório /usr/socin/econect/build/dist/V_RLS_VERSAO/Econect-Concentrador/instalador
 
 ## 💫 Features
+O e-conect usa uma ferramenta de gestão e controle de features abaixo se encontra o link.
 
 ## 😃 Autor
 
