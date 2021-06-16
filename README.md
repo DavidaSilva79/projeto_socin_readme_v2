@@ -36,7 +36,7 @@ Além disto é bom ter um editor para trabalhar com o código como Eclipse
 
 ### 🎲 Executando o e-conect
 
-🚧 Em construção... 🚧
+Abaixo se encontro o link o para o manual de montagem de ambiente e execução.
 
 ### 🎁 Como liberar um pacote
 
