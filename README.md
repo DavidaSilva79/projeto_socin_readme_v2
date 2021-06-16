@@ -42,6 +42,21 @@ Além disto é bom ter um editor para trabalhar com o código como Eclipse
 - Para liberar pacotes de instalação basta buildar o arquivo Econect-Build/ant/build.xml
 - os pacotes .jar são gerados no diretório /usr/socin/econect/build/dist/V_RLS_VERSAO/Econect-Concentrador/instalador
 
+## 🤝 Contribuidores
+
+<table>
+  <tr>
+   <td align="center"><a href=https://github.com/DavidaSilva79><img src="https://avatars.githubusercontent.com/u/45698040?v=4" width="100px;" alt=""/><br /><sub><b>Davi  Andrade</b></sub></a><br /><a href="#" title="Code">👀</a></td>
+   <td align="center"><a href=https://github.com/ecangussu><img src="https://avatars.githubusercontent.com/u/60893574?v=4" width="100px;" alt=""/><br /><sub><b>Estevao Souza</b></sub></a><br /><a href="#" title="Code">👀</a></td>
+    <td align="center"><a href="https://github.com/bistaffa"><img src="https://avatars.githubusercontent.com/u/30552771?v=4" width="100px;" alt=""/><br /><sub><b>Marcelo Bistaffa</b></sub></a><br /><a href="#" title="Code">👀</a></td>
+    <td align="center"><a href="https://github.com/BononiAline"><img src="https://avatars.githubusercontent.com/u/50929356?v=4" width="100px;" alt=""/><br /><sub><b>Aline Bononi</b></sub></a><br /><a href="#" title="Code">👀</a></td>    
+    <td align="center"><a href="https://github.com/pmata"><img src="https://avatars.githubusercontent.com/u/928861?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Paulo Henrique da Mata</b></sub></a><br /><a href="https://github.com/socin-econect/econect/pulls?q=is%3Apr+reviewed-by%3Apmata" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/valdirsantilli"><img src="https://avatars.githubusercontent.com/u/1787469?v=4" width="100px;" alt=""/><br /><sub><b>Valdir Santili</b></sub></a><br /><a href="#" title="Code">👀</a></td> 
+    <td align="center"><a href="https://github.com/lbassoli"><img src="https://avatars.githubusercontent.com/u/19332278?v=4?s=100" width="100px;" alt=""/><br /><sub><b>lbassoli</b></sub></a><br /><a href="https://github.com/socin-econect/econect/pulls?q=is%3Apr+reviewed-by%3Albassoli" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/socin-econect/econect/commits?author=lbassoli" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/pedrobianco"><img src="https://avatars.githubusercontent.com/u/27033867?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pedro Bianco</b></sub></a><br /><a href="https://github.com/socin-econect/econect/commits?author=pedrobianco" title="Code">💻</a></td>
+  </tr>
+</table>
+
 
 
 
