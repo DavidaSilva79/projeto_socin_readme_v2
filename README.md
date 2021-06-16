@@ -46,6 +46,26 @@ Além disto é bom ter um editor para trabalhar com o código como Eclipse
 - Para liberar pacotes de instalação basta buildar o arquivo Econect-Build/ant/build.xml
 - os pacotes .jar são gerados no diretório /usr/socin/econect/build/dist/V_RLS_VERSAO/Econect-Concentrador/instalador
 
+## 💫 Features
+
+## 😃 Autor
+
+<p align="center"> 
+   <a href="https://www.socin.com.br/">
+      <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/48964967?v=4" width="100px;" alt="socin"/>
+   </a>
+</p>
+<p align="center"> 
+      <sub><b>Socin Sistemas</b></sub></a> <a href="https://www.socin.com.br/" title="Socin">🚀</a>
+<p align="center"> 
+ Feito com ❤️  pela equipe de desenvolvimento Socin Sistemas!
+</p>
+<p align="center"> 
+ <a href="https://www.facebook.com/socinsistemas"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://www.linkedin.com/company/socinsistemas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+<a href="https://www.instagram.com/socinsistemas/?hl=pt-br"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> 
+</p>
+
 ## 🤝 Contribuidores
 
 <table>
