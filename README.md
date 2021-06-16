@@ -2,7 +2,7 @@
  <p align="center">
 <img src="https://static.wixstatic.com/media/b62a2d_974c250fd60542b1b2195291096a6c91~mv2.png" width="750px" height="400px"/></p>
 
-## 💻 Econect
+## 💻 E-conect
 
 O e-conect é o software de PDV da Socin uma Solução para frente de loja preparada para atender as necessidades varejistas dos mais diferentes portes.
 
@@ -17,13 +17,12 @@ Além dos módulos naturais existentes em uma solução de frente de caixa, o e-
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- Java
-- Spring
-- MySQL
+- [Java v1.8](https://www.java.com)
+- [MySQL v1.7](https://www.mysql.com)
 
 
 
-## 🚀 Como executar o projeto
+## 🚀 Como executar o E-conect e seus Pré-requisitos
 
 ### Pré-requisitos
 
@@ -31,11 +30,11 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 Java JDK 1.8, MySQL 5.7, FTP e SSH
 Além disto é bom ter um editor para trabalhar com o código como Eclipse
 
-### 🎲 Rodando o Projeto
+### 🎲 Executando o e-conect
 
 🚧 Em construção... 🚧
 
-## 🎁 Como liberar um pacote do projeto
+## 🎁 Como liberar um pacote
 
 - Para liberar pacotes para o desenvolvimento do concentrador basta buildar o arquivo Econect-Concentrador/ant/build-econect.conc.xml
 - os pacotes .jar são gerados no diretório /usr/socin/econect/conc/lib
