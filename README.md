@@ -56,7 +56,10 @@ Abaixo se encontro o link o para o manual de montagem de ambiente e execução.
 - os pacotes .jar são gerados no diretório /usr/socin/econect/build/dist/V_RLS_VERSAO/Econect-Concentrador/instalador
 
 ## 💫 Features
-O e-conect usa uma ferramenta de gestão e controle de features abaixo se encontra o link.
+
+O conteúdo referente as features do e-econect se encontra no local  do link abaixo.
+
+https://socincompany.atlassian.net/wiki/spaces/E
 
 ## 🤝 Contribuidores
 
