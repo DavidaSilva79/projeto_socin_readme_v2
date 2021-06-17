@@ -16,7 +16,7 @@ Além dos módulos naturais existentes em uma solução de frente de caixa, o e-
 ## Tópicos
 
 - [Tecnologias](#-Tecnologias)
-- [Como executar o e-conect](#-Como executar o e-conect)
+- [Como executar o e-conect](#-Como-executar-o-e-conect)
 - [Features](#-Features)
 - [Contribuidores](#-Contribuidores)
 - [Autor](#-Autor)
