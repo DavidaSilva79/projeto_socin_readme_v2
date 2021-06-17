@@ -13,7 +13,7 @@ Além dos módulos naturais existentes em uma solução de frente de caixa, o e-
 - Integrado com a maioria de ERPs disponíveis do mercado;
 - Baixo custo de investimento e manutenção.
 
-## Tabela de Conteúdos
+## índice
 
 - [Badges](#-Badges)
 - [Features](#-Features)
