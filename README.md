@@ -13,6 +13,16 @@ Além dos módulos naturais existentes em uma solução de frente de caixa, o e-
 - Integrado com a maioria de ERPs disponíveis do mercado;
 - Baixo custo de investimento e manutenção.
 
+## Tabela de Conteúdos
+
+- [Badges](#-Badges)
+- [Features](#-Features)
+- [Demonstração da aplicação](#-Demonstração-da-aplicação)
+- [Tecnologias](#-Tecnologias)
+- [Contribuição](#-Contribuição)
+- [Autor](#-Autor)
+- [Licença](#-Licença)
+
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
