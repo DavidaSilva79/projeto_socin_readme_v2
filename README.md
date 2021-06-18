@@ -47,6 +47,8 @@ Além disto é bom ter um editor para trabalhar com o código como Eclipse
 
 Abaixo se encontro o link o para o manual de montagem de ambiente e execução.
 
+🚧 Em construção... 🚧
+
 ### 🎁 Como liberar um pacote
 
 - Para liberar pacotes para o desenvolvimento do concentrador basta buildar o arquivo Econect-Concentrador/ant/build-econect.conc.xml
