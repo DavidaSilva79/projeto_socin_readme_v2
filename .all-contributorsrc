@@ -1,9 +1,11 @@
 {
-  "projectName": "all-contributors-cli",
-  "projectOwner": "jfmengels",
+  "projectName": "projeto_socin_readme_v2",
+  "projectOwner": "DavidaSilva79",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "files": ["README.md"],
+  "files": [
+    "README.md"
+  ],
   "imageSize": 100,
   "commit": false,
   "contributorsPerLine": 7,
@@ -16,5 +18,16 @@
       "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
     }
   },
-  "contributors": []
+  "contributors": [
+    {
+      "login": "DavidaSilva79",
+      "name": "Davi da Silva",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45698040?v=4",
+      "profile": "https://github.com/DavidaSilva79",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "skipCi": true
 }
