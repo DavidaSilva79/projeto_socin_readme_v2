@@ -100,9 +100,9 @@ This project follows the [all-contributors](https://github.com/all-contributors/
  Feito com ❤️  pela equipe de desenvolvimento Socin Sistemas!
 </p>
 <p align="center"> 
-    <a href="https://www.facebook.com/socinsistemas"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"         alt="Facebook"></a>
-   <a href="https://www.linkedin.com/company/socinsistemas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-                    badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
-   <a href="https://www.instagram.com/socinsistemas/?hl=pt-br"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-  badge&logo=instagram&logoColor=white" alt="Instagram"></a> 
+ <a href="https://www.facebook.com/socinsistemas"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://www.linkedin.com/company/socinsistemas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+<a href="https://www.instagram.com/socinsistemas/?hl=pt-br"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> 
 </p>
 
 ## 📝 Licença
