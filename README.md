@@ -39,10 +39,28 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🚀 Como executar o e-conect
 
-O econect-monitore é executado junto com o econect pois o mesmo é uma dependência dele, o projeto é importado no processo de montagem e execução do ambiente e workspace do econect.
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+Java JDK 1.8, MySQL 5.7, FTP e SSH
+Além disto é bom ter um editor para trabalhar com o código como Eclipse
+
+### 🎲 Executando o e-conect
+
+Abaixo se encontro o link o para o manual de montagem de ambiente e execução.
+
+🚧 Em construção... 🚧
+
+### 🎁 Como liberar um pacote
+
+- Para liberar pacotes para o desenvolvimento do concentrador basta buildar o arquivo Econect-Concentrador/ant/build-econect.conc.xml
+- os pacotes .jar são gerados no diretório /usr/socin/econect/conc/lib
+
+- Para liberar pacotes de instalação basta buildar o arquivo Econect-Build/ant/build.xml
+- os pacotes .jar são gerados no diretório /usr/socin/econect/build/dist/V_RLS_VERSAO/Econect-Concentrador/instalador
+
 
 ## 🤝 Contribuidores
-
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
